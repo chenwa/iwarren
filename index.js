@@ -22,7 +22,7 @@ app.use(express.static('public'))
  * Routes Definitions
  */
 app.get("/", (req, res) => {
-   res.sendFile(path.join(__dirname+'/index.html'));
+  res.redirect('/index.html')
 });
 
 /**
