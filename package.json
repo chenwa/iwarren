@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "heroku": "^7.38.2"
+    "heroku": "^7.38.2",
+    "nodemailer": "^6.4.4"
   }
 }
