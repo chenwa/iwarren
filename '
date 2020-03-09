@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Warren Chen</title>
+		<title>Twenty by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,15 +19,16 @@
 				<header id="header" class="alt">
 					<h1 id="logo"><a href="index.html">Warren <span>Chen</span></a></h1>
 					<nav id="nav">
-
 						<ul>
-							<li class="current"><a href="contact.html">Contact</a></li>
+							<li class="current"><a href="index.html">Warren Chen</a></li>
 							<li class="submenu">
 								<a href="#">Index</a>
 								<ul>
 									<li><a href="#skills">Skills</a></li>
-									<li><a href="#background">Background</a></li>
-									<li><a href="#projects">Projects</a></li>
+									<li><a href="right-sidebar.html">Right Sidebar</a></li>
+									<li><a href="no-sidebar.html">No Sidebar</a></li>
+									<li><a href="contact.html">Contact</a></li>
+
 								</ul>
 							</li>
 						</ul>
@@ -51,7 +52,7 @@
 						<p>This site is under <strong>Construction</strong>,
 						<footer>
 							<ul class="buttons stacked">
-								<li><a href="contact.html" class="button fit scrolly">Contact</a></li>
+								<li><a href="#main" class="button fit scrolly">About</a></li>
 							</ul>
 						</footer>
 
@@ -75,9 +76,9 @@
 					</header>
 
 					<!-- One -->
-          <a name="skills"></a>
 						<section class="wrapper style2 container special-alt">
 							<div class="row gtr-50">
+                <a name="skills"></a>
 								<div class="col-8 col-12-narrower">
 
 									<header>
@@ -107,7 +108,6 @@
 						</section>
 
 					<!-- Two -->
-          <a name="background"></a>
 						<section class="wrapper style1 container special">
 							<div class="row">
 								<div class="col-4 col-12-narrower">
@@ -147,7 +147,6 @@
 						</section>
 
 					<!-- Three -->
-          <a name="projects"></a>
 						<section class="wrapper style3 container special">
 
 							<header class="major">
